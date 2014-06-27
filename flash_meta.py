@@ -4,9 +4,8 @@
 # Fastboot Flash Utility
 #
 # Version information
-# $Header: //source/qcom/qct/tools/meta/main/latest/common/build/fastboot_complete.py#2 $
 # $DateTime: 2014/06/28 19:15:13 $
-# $Author: Siddharth Bhal (sbhal@qti.qualcomm.com)
+# $Author: Siddharth Bhal
 #*****************************************************************************
 
 '''fastboot_complete.py:
